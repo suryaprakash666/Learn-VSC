@@ -1,1 +1,4 @@
 hey i am surya prakash das.i am bsc itm student
+i am mcs student
+When you encounter the “fatal: refusing to merge unrelated histories” error during a Git merge, it means that the branches you’re trying to
+ merge have no common ancestor in their histories. To resolve this, you can use the following command:
